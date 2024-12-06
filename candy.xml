@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCandy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Candy>
+    <Name>Gummy Bear</Name>
+    <Weight>30</Weight>
+    <Type>Gummy</Type>
+    <Packaging>
+      <Material>Paper</Material>
+      <Width>3</Width>
+      <Height>5</Height>
+    </Packaging>
+    <SugarContent>25</SugarContent>
+    <Flavor>Apple</Flavor>
+  </Candy>
+  <Candy>
+    <Name>Chocolate Bar</Name>
+    <Weight>100</Weight>
+    <Type>Soft</Type>
+    <Packaging>
+      <Material>Foil</Material>
+      <Width>10</Width>
+      <Height>20</Height>
+    </Packaging>
+    <SugarContent>60</SugarContent>
+    <Flavor>Chocolate</Flavor>
+  </Candy>
+</ArrayOfCandy>
